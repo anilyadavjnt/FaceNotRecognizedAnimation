@@ -1,0 +1,55 @@
+# Face Not Recognized Animation – iOS App
+
+An iOS application demonstrating a Face Not Recognized animation with a clean and interactive user interface.
+
+## 📱 About the Project
+
+FaceNotRecognizedAnimation is an iOS UI animation project designed to demonstrate an engaging visual experience when a face is not recognized.
+
+The project focuses on UI design, animation, and creating a smooth user experience.
+
+## ✨ Features
+
+- Face Not Recognized animation
+- Clean and modern UI
+- Smooth animation effects
+- Interactive user experience
+- Responsive UI design
+
+## 🛠 Technologies Used
+
+- Swift
+- iOS Development
+- Xcode
+- [UIKit / SwiftUI]
+- Animation
+
+## 📸 Screenshots
+
+### App Screens
+
+![Face Not Recognized Screen](Screenshots/FaceNotRecognized.png)
+
+### Animation Preview
+
+![Animation Preview](Screenshots/FaceNotRecognizedAnimation.png)
+
+## 🚀 Getting Started
+
+1. Clone this repository.
+2. Open the `.xcodeproj` or `.xcworkspace` file in Xcode.
+3. Select an iOS Simulator or connected device.
+4. Build and run the project.
+
+## 👨‍💻 Developer
+
+**Anil Kumar Yadav**
+
+iOS Developer | Swift | UIKit | SwiftUI
+
+- GitHub: https://github.com/anilyadavjnt
+- LinkedIn: https://linkedin.com/in/anilyadavjnt
+
+---
+
+⭐ If you find this project interesting, don't forget to star the repository!
