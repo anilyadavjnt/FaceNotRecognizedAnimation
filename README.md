@@ -40,13 +40,14 @@ The project focuses on UI design, animation, and creating a smooth user experien
 
 ## 👨‍💻 Developer
 
-**Anil Kumar Yadav**
+**Anil Kumar Yadav**  
+iOS Developer
 
-iOS Developer | Swift | UIKit | SwiftUI
-
+- Gmail: anilyadavjnt@gmail.com
 - GitHub: https://github.com/anilyadavjnt
 - LinkedIn: https://linkedin.com/in/anilyadavjnt
+- Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
 
-⭐ If you find this project interesting, don't forget to star the repository!
+If you find this project useful, feel free to explore the code and share feedback.
