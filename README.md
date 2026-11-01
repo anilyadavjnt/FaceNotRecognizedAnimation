@@ -31,8 +31,6 @@ The project focuses on UI design, animation, and creating a smooth user experien
 
 
 
-
-
 ## 🚀 Getting Started
 
 1. Clone this repository.
