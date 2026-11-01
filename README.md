@@ -39,7 +39,7 @@ The project focuses on UI design, animation, and creating a smooth user experien
 https://github.com/user-attachments/assets/98699dc3-a256-4417-af9b-96061dd1f1f2
 
 
-![Animation Preview](Screenshots/FaceNotRecognizedAnimation.png)
+
 
 ## 🚀 Getting Started
 
