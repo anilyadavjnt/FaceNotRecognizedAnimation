@@ -26,7 +26,6 @@ The project focuses on UI design, animation, and creating a smooth user experien
 
 ## 📸 Screenshots
 
-
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-01 at 23 01 38" src="https://github.com/user-attachments/assets/11b2d8aa-207b-41ac-8e01-a215884019fb" />
 
 ## 🚀 Getting Started
